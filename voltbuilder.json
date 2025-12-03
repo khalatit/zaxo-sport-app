@@ -1,0 +1,6 @@
+{
+  "platform": "android",
+  "framework": "capacitor",
+  "release": "debug",
+  "androidPackage": "com.zaxosport.app"
+}
