@@ -7,6 +7,6 @@
     "@capacitor/cli": "^5.0.0"
   },
   "scripts": {
-    "build": "echo 'No build needed'"
+    "build": "npx cap add android"
   }
 }
