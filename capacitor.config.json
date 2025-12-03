@@ -1,0 +1,6 @@
+{
+  "appId": "com.zaxosport.app",
+  "appName": "Zaxo Sport",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}
