@@ -5,8 +5,5 @@
     "@capacitor/android": "5.7.0",
     "@capacitor/core": "5.7.0",
     "@capacitor/cli": "5.7.0"
-  },
-  "scripts": {
-    "build": "npx cap add android"
   }
 }
